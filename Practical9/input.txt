@@ -1,0 +1,6 @@
+* a a x
+* b b y
+* 2 a d
+* b d e
++ x e d
++ y d c
